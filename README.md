@@ -9,7 +9,7 @@
 ### - Pie Charts: Display the distribution of cumulative cases and deaths among selected countries.
 ## Dataset:
 The data used in this project is sourced from COVID-19 Global Data, which includes information on cumulative and new cases and deaths reported by various countries.
-You can find the dataset from (kaggle here)[https://www.kaggle.com/datasets/abdoomoh/daily-covid-19-data-2020-2024].
+You can find the dataset from (kaggle)[https://www.kaggle.com/datasets/abdoomoh/daily-covid-19-data-2020-2024].
 
 ## Technologies Used
 ### - Streamlit: For building the interactive web app.
